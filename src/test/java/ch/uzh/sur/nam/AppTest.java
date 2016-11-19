@@ -28,6 +28,9 @@ public class AppTest
         return new TestSuite( AppTest.class );
     }
 
+    public static void print(){
+    	System.out.println("hello");
+    }
     /**
      * Rigourous Test :-)
      */
