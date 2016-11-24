@@ -29,7 +29,7 @@ public class AppTest
     }
 
     public static void print(){
-    	System.out.println("hello");
+    	System.out.println("hello jenkins;;;");
     }
     /**
      * Rigourous Test :-)
