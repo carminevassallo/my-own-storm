@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hey Code Review" );
+        System.out.println( "Hey Code Review!" );
         
         int a = 0;
         int b = 1;
