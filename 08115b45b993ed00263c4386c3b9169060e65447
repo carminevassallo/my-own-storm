@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9e123c72_6234c9f3",
+        "filename": "src/main/java/ch/uzh/sur/nam/App.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1010030
+      },
+      "writtenOn": "2017-07-06T12:36:14Z",
+      "side": 1,
+      "message": "I don\u0027t like it",
+      "revId": "08115b45b993ed00263c4386c3b9169060e65447",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
