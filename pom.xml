@@ -6,9 +6,8 @@
   <artifactId>my-own-storm</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
-<-->
-    comment #1
-    </-->
+
+    <--> comment #2 </-->
   <name>my-own-storm</name>
   <url>http://maven.apache.org</url>
 
