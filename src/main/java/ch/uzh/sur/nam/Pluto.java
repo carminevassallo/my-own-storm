@@ -17,6 +17,10 @@ public class Pluto {
 		
 	}
 	
+	public void print(){
+		System.out.println(getName());
+	}
+	
 	
 	
 }
