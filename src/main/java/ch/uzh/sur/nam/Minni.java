@@ -11,6 +11,6 @@ public class Minni {
 	}
 	
 	public void print(){
-		System.out.println(pippo.getName()+ "_1");
+		System.out.println(pippo.getName());
 	}
 }
