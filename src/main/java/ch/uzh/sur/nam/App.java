@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        String hellomessage = "Hello World Travis CI!";
+        String hellomessage = "Hello World Travis!";
         System.out.println(hellomessage);
         
         Pluto p = new Pluto("plutino");
