@@ -9,4 +9,8 @@ public class Minni {
 		this.pippo = new Pippo(name);
 		this.pluto = new Pluto(name);
 	}
+	
+	public void print(){
+		System.out.println(pippo.getName());
+	}
 }
