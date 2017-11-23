@@ -10,5 +10,8 @@ public class App
     {
         String hellomessage = "Hello World Travis!";
         System.out.println(hellomessage);
+        
+        Pluto p = new Pluto("plutino");
+        System.out.println(p.getName());
     }
 }
