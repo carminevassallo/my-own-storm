@@ -13,5 +13,7 @@ public class App
         
         Pluto p = new Pluto("plutino");
         System.out.println(p.getName());
+        
+        System.out.println("ambeh");
     }
 }
