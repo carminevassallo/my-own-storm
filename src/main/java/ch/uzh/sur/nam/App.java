@@ -1,7 +1,7 @@
 package ch.uzh.sur.nam;
 
 /**
- * Hello world!
+ * Hello wo rld!
  *
  */
 public class App 
