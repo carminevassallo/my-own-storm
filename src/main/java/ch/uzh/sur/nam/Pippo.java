@@ -17,7 +17,7 @@ public class Pippo {
 	}
 	
 	public void print(){
-		System.out.println(getName());
+		System.out.println("hello "+getName());
 	}
 	
 }
