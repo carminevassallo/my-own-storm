@@ -10,7 +10,7 @@ public class Minni {
 		this.pluto = new Pluto(name);
 	}
 	
-	// hello
+	// hell o
 	public void print(){
 		System.out.println(pippo.getName());
 	}
