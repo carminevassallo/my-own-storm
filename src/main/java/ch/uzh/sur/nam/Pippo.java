@@ -9,7 +9,7 @@ public class Pippo {
 	}
 
 	public String getName() {
-		return name;
+		return null;//name;
 	}
 
 	public void setName(String name) {
