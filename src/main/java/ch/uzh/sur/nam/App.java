@@ -12,7 +12,7 @@ public class App
         System.out.println(hellomessage);
        
         
-        //hello
+        //hello ciao
         Pluto p = new Pluto("plutino");
         System.out.println(p.getName());
     }
